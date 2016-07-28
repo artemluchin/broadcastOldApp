@@ -1,4 +1,4 @@
-### Приложение Broadcast Old
+## Приложение Broadcast Old
 
 [Установочный файл](https://github.com/artemluchin/broadcastOldApp/releases) приложения.
 
@@ -6,7 +6,7 @@
 завернутое посредством phoneGap. В коде я ничего не менял, за исключением
 некоторых стилей, чтобы улучшить вид приложения.
 
-#### Скриншоты приложения
+### Скриншоты приложения
 
 Главный вид приложения.
 
@@ -20,7 +20,7 @@
 
 <img src="https://github.com/artemluchin/broadcastOldApp/blob/master/screenshots/iconView.png" width="240"/>
 
-#### Трудности при реализации
+### Трудности при реализации
 
 1. Не читал json файл, хотя в `config.xml` стоял доступ ко всем ресурсам. Вылечилось путем добавления плагина `cordova-plugin-whitelist`.
 
