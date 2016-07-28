@@ -7,12 +7,15 @@
 #### Скриншоты приложения
 
 Главный вид приложения.
-<img src="https://github.com/artemluchin/broadcastOldApp/blob/master/screenshots/splash.png" width="240"/>
+
+<img src="https://github.com/artemluchin/broadcastOldApp/blob/master/screenshots/mainView.png" width="240"/>
 
 Вид при работающих фильтрах.
+
 <img src="https://github.com/artemluchin/broadcastOldApp/blob/master/screenshots/flterActive.png" width="240"/>
 
 Вид иконки приложения.
+
 <img src="https://github.com/artemluchin/broadcastOldApp/blob/master/screenshots/iconView.png" width="240"/>
 
 #### Трудности при реализации
