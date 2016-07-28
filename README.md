@@ -7,4 +7,5 @@
 #### Скриншоты приложения
 
 Первый скриншот - это splashscreen приложения.
+<img src="https://github.com/artemluchin/broadcastOldApp/blob/master/screenshots/splash.png" width="200" />
 ![test](https://github.com/artemluchin/broadcastOldApp/blob/master/screenshots/splash.png =320x)
